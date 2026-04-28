@@ -53,7 +53,6 @@ Le modèle établit une relation entre :
 
 - Agrégation des ventes par mois
 - Création d’une variable temporelle ("mois_num")
-- Séparation des données (train/test)
 - Entraînement du modèle
 - Précision avec R² (R2 Score)
 
