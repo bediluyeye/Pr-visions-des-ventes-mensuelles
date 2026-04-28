@@ -1,0 +1,8 @@
+#Dependencies - Prediction des ventes
+
+### You should install the dependencies using pip install -r requirements.txt
+
+scikit-learn == 1.3.2
+pandas == 2.0.3
+numpy == 1.24.4
+matplotlib == 3.7.5
