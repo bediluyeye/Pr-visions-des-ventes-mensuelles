@@ -92,5 +92,3 @@ Le modèle établit une relation entre :
 - Modèle de prédiction
 - Rapport final avec recommandations
 
-## Github URL project
-<a href='https://github.com/bediluyeye/Prevision-des-ventes-mensuelles'>Project url</a>
